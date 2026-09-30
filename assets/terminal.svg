@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="340" viewBox="0 0 920 340" role="img" aria-label="Command Prompt session for Neil Duraiswami at Aeon Software">
+  <rect x="16" y="8" width="888" height="324" fill="#0C0C0C" stroke="#767676"/>
+  <rect x="16" y="8" width="888" height="32" fill="#F3F3F3"/>
+  <line x1="16" y1="40" x2="904" y2="40" stroke="#D0D0D0"/>
+
+  <rect x="28" y="16" width="16" height="16" fill="#0C0C0C"/>
+  <path d="M31 26h6M31 23h4" stroke="#CCCCCC" stroke-width="1.2"/>
+  <text x="52" y="29" fill="#1A1A1A" font-family="Segoe UI, Tahoma, sans-serif" font-size="13">Command Prompt</text>
+
+  <path d="M792 24h12" stroke="#1A1A1A" stroke-width="1"/>
+  <rect x="822" y="17" width="11" height="11" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+  <path d="M850 18l10 10M860 18l-10 10" stroke="#1A1A1A" stroke-width="1"/>
+
+  <g fill="#CCCCCC" font-family="Consolas, Lucida Console, monospace" font-size="16">
+    <text x="32" y="78">C:\Users\neil&gt;whoami</text>
+    <text x="32" y="104">Neil Duraiswami</text>
+
+    <text x="32" y="148">C:\Users\neil&gt;company</text>
+    <text x="32" y="174">Aeon Software</text>
+
+    <text x="32" y="218">C:\Users\neil&gt;site</text>
+    <text x="32" y="244">https://aeonsoftware.net</text>
+
+    <text x="32" y="288">C:\Users\neil&gt;<tspan><animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/>_</tspan></text>
+  </g>
+</svg>
